@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/black.png</file>
+        <file>img/close.png</file>
+        <file>img/cover.png</file>
+        <file>img/min.png</file>
+        <file>img/white.png</file>
+        <file>img/icon.ico</file>
+        <file>img/aigame.png</file>
+        <file>img/localgame.png</file>
+        <file>img/name.png</file>
+        <file>img/netgame.png</file>
+        <file>img/surrender.png</file>
+        <file>img/tie.png</file>
+        <file>img/undo.png</file>
+    </qresource>
+</RCC>
