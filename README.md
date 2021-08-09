@@ -1,4 +1,4 @@
-> 个人博客：[小北北北北的秘密小窝](https://www.seny.xyz)
+> 个人博客：[小北北北北的秘密小窝](https://www.seny.xyz)<br>
 > 本文链接：[https://www.seny.xyz/archives/gobang](https://www.seny.xyz/archives/gobang)
 
 # 前言
